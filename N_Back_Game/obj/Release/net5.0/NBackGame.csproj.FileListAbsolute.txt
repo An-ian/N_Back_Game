@@ -1,0 +1,15 @@
+C:\Users\Ckan\source\repos\N_Back_Game\bin\Release\net5.0\N_Back_Game.exe
+C:\Users\Ckan\source\repos\N_Back_Game\bin\Release\net5.0\N_Back_Game.deps.json
+C:\Users\Ckan\source\repos\N_Back_Game\bin\Release\net5.0\N_Back_Game.runtimeconfig.json
+C:\Users\Ckan\source\repos\N_Back_Game\bin\Release\net5.0\N_Back_Game.runtimeconfig.dev.json
+C:\Users\Ckan\source\repos\N_Back_Game\bin\Release\net5.0\N_Back_Game.dll
+C:\Users\Ckan\source\repos\N_Back_Game\bin\Release\net5.0\ref\N_Back_Game.dll
+C:\Users\Ckan\source\repos\N_Back_Game\bin\Release\net5.0\N_Back_Game.pdb
+C:\Users\Ckan\source\repos\N_Back_Game\obj\Release\net5.0\NBackGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ckan\source\repos\N_Back_Game\obj\Release\net5.0\NBackGame.AssemblyInfoInputs.cache
+C:\Users\Ckan\source\repos\N_Back_Game\obj\Release\net5.0\NBackGame.AssemblyInfo.cs
+C:\Users\Ckan\source\repos\N_Back_Game\obj\Release\net5.0\NBackGame.csproj.CoreCompileInputs.cache
+C:\Users\Ckan\source\repos\N_Back_Game\obj\Release\net5.0\N_Back_Game.dll
+C:\Users\Ckan\source\repos\N_Back_Game\obj\Release\net5.0\ref\N_Back_Game.dll
+C:\Users\Ckan\source\repos\N_Back_Game\obj\Release\net5.0\N_Back_Game.pdb
+C:\Users\Ckan\source\repos\N_Back_Game\obj\Release\net5.0\NBackGame.genruntimeconfig.cache
